@@ -1,5 +1,8 @@
 {
   "origins": [
     "https://birkhoff.me"
+  ],
+  "originsRegex": [
+    "^https?://(localhost|127.0.0.1)"
   ]
 }
